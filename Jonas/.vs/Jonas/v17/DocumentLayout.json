@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jonas\\source\\repos\\Jonas\\",
+  "WorkspaceRootPath": "C:\\Users\\jonas\\Desktop\\Assignment Jonas\\Jonas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|c:\\users\\jonas\\source\\repos\\jonas\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|c:\\users\\jonas\\desktop\\assignment jonas\\jonas\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|c:\\users\\jonas\\source\\repos\\jonas\\components\\pages\\customers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|c:\\users\\jonas\\desktop\\assignment jonas\\jonas\\components\\pages\\customers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|solutionrelative:components\\pages\\customers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|c:\\users\\jonas\\source\\repos\\jonas\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|c:\\users\\jonas\\desktop\\assignment jonas\\jonas\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|solutionrelative:components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|c:\\users\\jonas\\source\\repos\\jonas\\components\\pages\\sigin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|c:\\users\\jonas\\desktop\\assignment jonas\\jonas\\components\\pages\\sigin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|solutionrelative:components\\pages\\sigin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|c:\\users\\jonas\\source\\repos\\jonas\\wwwroot\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|c:\\users\\jonas\\desktop\\assignment jonas\\jonas\\wwwroot\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|solutionrelative:wwwroot\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|c:\\users\\jonas\\source\\repos\\jonas\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|c:\\users\\jonas\\desktop\\assignment jonas\\jonas\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|c:\\users\\jonas\\source\\repos\\jonas\\components\\pages\\orders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|c:\\users\\jonas\\desktop\\assignment jonas\\jonas\\components\\pages\\orders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|solutionrelative:components\\pages\\orders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|c:\\users\\jonas\\source\\repos\\jonas\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|c:\\users\\jonas\\desktop\\assignment jonas\\jonas\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B324A2EF-3A44-44EC-BA08-B001C172D64D}|Jonas.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -48,88 +48,82 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Customers.razor",
-              "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\Jonas\\Components\\Pages\\Customers.razor",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\Assignment Jonas\\Jonas\\Components\\Pages\\Customers.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Customers.razor",
-              "ToolTip": "C:\\Users\\jonas\\source\\repos\\Jonas\\Components\\Pages\\Customers.razor",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\Assignment Jonas\\Jonas\\Components\\Pages\\Customers.razor",
               "RelativeToolTip": "Components\\Pages\\Customers.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-14T21:05:19.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T21:05:19.252Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Products.razor",
-              "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\Jonas\\Components\\Pages\\Products.razor",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\Assignment Jonas\\Jonas\\Components\\Pages\\Products.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Products.razor",
-              "ToolTip": "C:\\Users\\jonas\\source\\repos\\Jonas\\Components\\Pages\\Products.razor",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\Assignment Jonas\\Jonas\\Components\\Pages\\Products.razor",
               "RelativeToolTip": "Components\\Pages\\Products.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-14T21:03:24.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T21:03:24.738Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "login.css",
-              "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\Jonas\\wwwroot\\login.css",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\Assignment Jonas\\Jonas\\wwwroot\\login.css",
               "RelativeDocumentMoniker": "wwwroot\\login.css",
-              "ToolTip": "C:\\Users\\jonas\\source\\repos\\Jonas\\wwwroot\\login.css",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\Assignment Jonas\\Jonas\\wwwroot\\login.css",
               "RelativeToolTip": "wwwroot\\login.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-14T21:01:14.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T21:01:14.019Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Orders.razor",
-              "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\Jonas\\Components\\Pages\\Orders.razor",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\Assignment Jonas\\Jonas\\Components\\Pages\\Orders.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Orders.razor",
-              "ToolTip": "C:\\Users\\jonas\\source\\repos\\Jonas\\Components\\Pages\\Orders.razor",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\Assignment Jonas\\Jonas\\Components\\Pages\\Orders.razor",
               "RelativeToolTip": "Components\\Pages\\Orders.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-14T20:25:25.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T20:25:25.708Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\Jonas\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\Assignment Jonas\\Jonas\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\jonas\\source\\repos\\Jonas\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\Assignment Jonas\\Jonas\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-14T20:21:04.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T20:21:04.096Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Sigin.razor",
-              "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\Jonas\\Components\\Pages\\Sigin.razor",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\Assignment Jonas\\Jonas\\Components\\Pages\\Sigin.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Sigin.razor",
-              "ToolTip": "C:\\Users\\jonas\\source\\repos\\Jonas\\Components\\Pages\\Sigin.razor",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\Assignment Jonas\\Jonas\\Components\\Pages\\Sigin.razor",
               "RelativeToolTip": "Components\\Pages\\Sigin.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T21:33:03.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T21:33:03.377Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\Jonas\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\Assignment Jonas\\Jonas\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\jonas\\source\\repos\\Jonas\\Components\\Layout\\NavMenu.razor*",
-              "RelativeToolTip": "Components\\Layout\\NavMenu.razor*",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\Assignment Jonas\\Jonas\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
               "ViewState": "AQIAACgAAACAODMzMzMbwC8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-13T21:18:49.409Z",
@@ -143,14 +137,13 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\Jonas\\Components\\App.razor",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\Assignment Jonas\\Jonas\\Components\\App.razor",
               "RelativeDocumentMoniker": "Components\\App.razor",
-              "ToolTip": "C:\\Users\\jonas\\source\\repos\\Jonas\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\Assignment Jonas\\Jonas\\Components\\App.razor",
               "RelativeToolTip": "Components\\App.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T21:11:54.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T21:11:54.637Z"
             }
           ]
         }
